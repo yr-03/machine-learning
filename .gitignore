@@ -15,3 +15,7 @@ dist/
 
 # Notebook output/temporary files
 .virtual_documents/
+
+# torchvision datasets
+data/
+datasets/
